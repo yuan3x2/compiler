@@ -22,6 +22,6 @@ Python-PLY
 主程式-lisptest3.py
 
 ### Project Description
-Step1. 先建立AST
-Step2. Postorder遍歷並執行主要程式邏輯
-Step3. 輸出結果
+    Step1. 先建立AST
+    Step2. Postorder遍歷並執行主要程式邏輯
+    Step3. 輸出結果
