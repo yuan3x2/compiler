@@ -1,6 +1,6 @@
 # compiler
 
-## Completed Function
+### Completed Function
 
 Basic
 1. Syntax Validation 
@@ -15,5 +15,5 @@ Basic
 Bonus
 1. Type Checking
 
-## Used Language and Module
+### Used Language and Module
 Python-PLY
